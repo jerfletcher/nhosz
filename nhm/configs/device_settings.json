@@ -1,0 +1,126 @@
+{
+	"detected_devices": [
+		{
+			"name": "GeForce RTX 3080",
+			"device_id": "NVD-3",
+			"enabled": true,
+			"active": true,
+			"selected_power_mode": "high",
+			"algorithms": [
+				{
+					"miner": "nbminer",
+					"algorithm_id": [
+						20
+					],
+					"enabled": true,
+					"power": [
+						{
+							"mode": "low",
+							"speed": {
+								"hash_rates": [
+									76418893.20483111
+								],
+								"measured_type": "mining",
+								"saved_at": "2021-03-08T10:03:43.172494465Z"
+							},
+							"power_use": 0,
+							"extra_parameters": [],
+							"tdp": "default",
+							"core_clocks": "default",
+							"memory_clocks": "default"
+						},
+						{
+							"mode": "medium",
+							"speed": {
+								"hash_rates": [
+									92366739.10238028
+								],
+								"measured_type": "mining",
+								"saved_at": "2021-03-08T18:22:14.337459588Z"
+							},
+							"power_use": 0,
+							"extra_parameters": [],
+							"tdp": "default",
+							"core_clocks": "default",
+							"memory_clocks": "default"
+						},
+						{
+							"mode": "high",
+							"speed": {
+								"hash_rates": [],
+								"measured_type": "none",
+								"saved_at": "0001-01-01T00:00:00Z"
+							},
+							"power_use": 0,
+							"extra_parameters": [],
+							"tdp": 70,
+							"core_clocks": -300,
+							"memory_clocks": 1000
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "GeForce RTX 3080",
+			"device_id": "NVD-7",
+			"enabled": true,
+			"active": true,
+			"selected_power_mode": "high",
+			"algorithms": [
+				{
+					"miner": "nbminer",
+					"algorithm_id": [
+						20
+					],
+					"enabled": true,
+					"power": [
+						{
+							"mode": "low",
+							"speed": {
+								"hash_rates": [
+									74609828.40497838
+								],
+								"measured_type": "mining",
+								"saved_at": "2021-03-08T09:24:23.044987349Z"
+							},
+							"power_use": 0,
+							"extra_parameters": [],
+							"tdp": "default",
+							"core_clocks": "default",
+							"memory_clocks": "default"
+						},
+						{
+							"mode": "medium",
+							"speed": {
+								"hash_rates": [
+									76954768.5723391
+								],
+								"measured_type": "mining",
+								"saved_at": "2021-03-08T18:22:14.337456713Z"
+							},
+							"power_use": 0,
+							"extra_parameters": [],
+							"tdp": "default",
+							"core_clocks": "default",
+							"memory_clocks": "default"
+						},
+						{
+							"mode": "high",
+							"speed": {
+								"hash_rates": [],
+								"measured_type": "none",
+								"saved_at": "0001-01-01T00:00:00Z"
+							},
+							"power_use": 0,
+							"extra_parameters": [],
+							"tdp": 70,
+							"core_clocks": -300,
+							"memory_clocks": 1000
+						}
+					]
+				}
+			]
+		}
+	]
+}
